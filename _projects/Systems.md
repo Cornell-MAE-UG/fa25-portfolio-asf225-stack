@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Analysis of Functions
+title: Systems Dissection
 description: Class project with Graphs
 technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+image: assets/images/Milk Frother.webp
 ---
 
 
