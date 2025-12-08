@@ -2,7 +2,7 @@
 layout: project
 title: Systems Dissection
 description: Class project with Graphs
-technologies: [MATLAB, python]
+technologies: [MATLAB]
 image: assets/images/Milk Frother.webp
 ---
 
