@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Systems Dissection
-description: Class project with Graphs
+description: Control Systems Dissection of a Milk Frother 
 technologies: [MATLAB]
 image: assets/images/Milk Frother.webp
 ---
