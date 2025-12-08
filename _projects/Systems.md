@@ -6,20 +6,6 @@ technologies: [MATLAB, python]
 image: assets/images/Milk Frother.webp
 ---
 
+For this project, our team analyzed the system dynamics of a handheld milk frother by modeling its rotational behavior during coast-down. After experimentally capturing the frother’s ramp-down data using high-speed video, my role was to develop the mathematical model and use MATLAB to determine the governing equation of motion. I compared viscous damping, quadratic drag, and mixed damping models by fitting each to the experimental data and evaluating their accuracy using linearization techniques and R² values. Through this analysis, I identified viscous damping as the dominant physical mechanism and extracted key system parameters, including the time constant and the ratio J/b. I then helped translate the model into transfer functions, state-space form, and relevant plots to characterize the frother as a first-order open-loop system. This work strengthened my ability to connect experimental data with analytical modeling, evaluate competing physical models, and use MATLAB to derive and validate dynamic system equations.
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-
+[Link to Assignment: ]({{ "/assets/MAE 3260_ Milk Frothers Final Project.pdf" | relative_url }}) in PDF format.
