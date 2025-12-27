@@ -20,7 +20,7 @@ Mechanical engineering junior at Cornell University with hands-on experience in 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering*  
-  GPA: 3.25/4.0 | Graduation: May, 2027
+  GPA: 3.28/4.0 | Graduation: May, 2027
 
 ---
 

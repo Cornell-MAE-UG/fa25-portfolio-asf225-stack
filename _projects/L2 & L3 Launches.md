@@ -3,7 +3,7 @@ layout: project
 title: L2 & L3 Launches
 description: Rocket Design and Launch
 technologies: [SolidWorks, OpenRocket, Soldering]
-image: assets/images/L2 Rocket.png
+image: assets/images/or.png
 ---
 
 

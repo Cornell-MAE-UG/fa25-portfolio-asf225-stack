@@ -2,6 +2,8 @@
 $primary-color: #3a3f58;
 $background-color: #f7f8fa;
 $text-color: #333;
+$font-main: 'Avenir', 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 
 // Set theme colors based on the color_scheme variable
 @if $color_scheme == 'dark' {
@@ -20,8 +22,8 @@ $text-color: #333;
 
 
 .navbar, h1, h2, h3, h4, h5, h6 {
-  font-family: 'Merriweather', serif;
-  font-weight: 700;
+  font-family: $font-main;
+  font-weight: 700; // keep this if you want bold headings
 }
 
 h1 {
@@ -29,7 +31,7 @@ h1 {
 }
 
 body {
-  font-family: "Open Sans", 'Montserrat', 'Helvetica Neue' sans-serif;
+  font-family: $font-main;
   line-height: 1.6;
   background-color: $background-color;
   color: $text-color;
