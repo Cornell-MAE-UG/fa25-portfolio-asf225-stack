@@ -5,10 +5,13 @@ description: Rocket Design and Launch
 technologies: [SolidWorks, OpenRocket, Soldering]
 image: assets/images/or.png
 ---
+I successfully completed Tripoli Level 1 High-Power Rocket Certification by designing, building, and launching a rocket powered by an H-class motor, reaching an altitude of approximately 2,000 ft while meeting all stability, recovery, and safety requirements.
 
+I am currently working toward Tripoli Level 2 Certification, with my certification flight scheduled for an upcoming launch. Level 2 certification expands the allowable motor range to J, K, and L class motors (total impulses from 640 Ns to 5,120 Ns) and requires both a successful written examination covering high-power rocketry theory and safety, as well as a certified flight observed by Tripoli officials.
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My Level 2 rocket is being designed and built to safely accommodate higher-impulse motors while maintaining robust structural integrity and predictable flight behavior. The vehicle incorporates a dedicated avionics bay with an altimeter and dual-deployment recovery system, enabling precise sequencing of drogue and main parachute deployment at target altitudes for controlled descent and safe recovery.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+The Level 3 rocket will utilize a fiberglass airframe to provide high structural resilience while allowing uninterrupted GPS signal transmission through the vehicle body, critical for real-time flight tracking and post-flight recovery.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec .
+Throughout the design process, I use OpenRocket simulations to model flight dynamics, optimize stability margins, and verify deployment altitude parameters prior to launch, ensuring compliance with Tripoli safety codes and reliable flight performance.
+
