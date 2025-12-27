@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Ayanna Fulga
 description              : Ayanna Fulga - Projects and CV 
-baseurl                  : "" #/fa25-portfolio-asf225-stack
+baseurl                  : "/fa25-portfolio-asf225-stack" #/fa25-portfolio-asf225-stack
 
 # Theme and Style
 theme: jekyll-theme-minimal
