@@ -9,6 +9,8 @@ I successfully completed Tripoli Level 1 High-Power Rocket Certification by desi
 
 I am currently working toward Tripoli Level 2 Certification, with my certification flight scheduled for an upcoming launch. Level 2 certification expands the allowable motor range to J, K, and L class motors (total impulses from 640 Ns to 5,120 Ns) and requires both a successful written examination covering high-power rocketry theory and safety, as well as a certified flight observed by Tripoli officials.
 
+![L2 Rocket Rendering]({{ "/assets/images/rocket.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+
 My Level 2 rocket is being designed and built to safely accommodate higher-impulse motors while maintaining robust structural integrity and predictable flight behavior. The vehicle incorporates a dedicated avionics bay with an altimeter and dual-deployment recovery system, enabling precise sequencing of drogue and main parachute deployment at target altitudes for controlled descent and safe recovery.
 
 The Level 3 rocket will utilize a fiberglass airframe to provide high structural resilience while allowing uninterrupted GPS signal transmission through the vehicle body, critical for real-time flight tracking and post-flight recovery.
